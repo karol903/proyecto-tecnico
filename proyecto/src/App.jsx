@@ -1,4 +1,4 @@
-import { Approutes } from "./Routes/Approutes"
+import { AppRouter } from "./Router/AppRouter";
 
 function App() {
   return <Approutes />
@@ -6,4 +6,4 @@ function App() {
   
 }
 
-export default App
+export default App;
